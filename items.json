@@ -1,0 +1,21 @@
+{
+    "7942-4126-bf55": {
+        "fields": {
+            "d9eb-437a-a30e": {
+                "id": "d9eb-437a-a30e", 
+                "name": "Title", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "7e21-4ad8-aa37": {
+                "id": "7e21-4ad8-aa37", 
+                "name": "view", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }
+        }, 
+        "name": "Pricerite - photos - Furniture - F Manhattan Pl"
+    }
+}

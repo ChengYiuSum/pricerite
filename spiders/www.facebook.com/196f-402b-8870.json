@@ -1,0 +1,82 @@
+{
+    "extractors": {},
+    "id": "196f-402b-8870",
+    "name": "Live",
+    "page_id": "",
+    "page_type": "item",
+    "plugins": {
+        "annotations-plugin": {
+            "extracts": [
+                {
+                    "annotations": {
+                        "#portia-content": "#dummy"
+                    },
+                    "container_id": null,
+                    "id": "e098-494f-8506",
+                    "item_container": true,
+                    "repeated": false,
+                    "required": [],
+                    "schema_id": "7942-4126-bf55",
+                    "selector": ".gl4o1x5y > div:nth-child(1) > .n851cfcs > .kfpcsd3p > div > .lkb5bm1b > .bp9cbjyn > .j83agx80",
+                    "siblings": 0,
+                    "tagid": null,
+                    "text-content": "#portia-content"
+                },
+                {
+                    "accept_selectors": [
+                        ".gl4o1x5y > div:nth-child(1) > .n851cfcs > .kfpcsd3p > div > .lkb5bm1b > .bp9cbjyn > .j83agx80 > div:nth-child(1) > ._3vwb > .d2edcug0 > .a8c37x1j"
+                    ],
+                    "container_id": "e098-494f-8506",
+                    "data": {
+                        "f820-45e0-8991": {
+                            "attribute": "content",
+                            "extractors": {},
+                            "field": "d9eb-437a-a30e",
+                            "required": false
+                        }
+                    },
+                    "id": "fbe0-4ab7-9638",
+                    "post_text": null,
+                    "pre_text": null,
+                    "reject_selectors": [],
+                    "repeated": false,
+                    "required": [],
+                    "selection_mode": "auto",
+                    "selector": ".gl4o1x5y > div:nth-child(1) > .n851cfcs > .kfpcsd3p > div > .lkb5bm1b > .bp9cbjyn > .j83agx80 > div:nth-child(1) > ._3vwb > .d2edcug0 > .a8c37x1j",
+                    "tagid": null,
+                    "text-content": "content",
+                    "xpath": "//*[contains(concat(\" \", @class, \" \"), \" gl4o1x5y \")]/div[1]/*[contains(concat(\" \", @class, \" \"), \" n851cfcs \")]/*[contains(concat(\" \", @class, \" \"), \" kfpcsd3p \")]/div/*[contains(concat(\" \", @class, \" \"), \" lkb5bm1b \")]/*[contains(concat(\" \", @class, \" \"), \" bp9cbjyn \")]/*[contains(concat(\" \", @class, \" \"), \" j83agx80 \")]/div[1]/*[contains(concat(\" \", @class, \" \"), \" _3vwb \")]/*[contains(concat(\" \", @class, \" \"), \" d2edcug0 \")]/*[contains(concat(\" \", @class, \" \"), \" a8c37x1j \")]"
+                },
+                {
+                    "accept_selectors": [
+                        ".gl4o1x5y > div:nth-child(1) > .n851cfcs > .kfpcsd3p > div > .lkb5bm1b > .bp9cbjyn > .j83agx80 > .gl3lb2sf > div:nth-child(2) > .j83agx80 > .qzhwtbm6 > .d2edcug0 > .bnpdmtie"
+                    ],
+                    "container_id": "e098-494f-8506",
+                    "data": {
+                        "d465-40e6-a05a": {
+                            "attribute": "content",
+                            "extractors": {},
+                            "field": "7e21-4ad8-aa37",
+                            "required": false
+                        }
+                    },
+                    "id": "f36f-4dd5-a9cc",
+                    "post_text": null,
+                    "pre_text": null,
+                    "reject_selectors": [],
+                    "repeated": false,
+                    "required": [],
+                    "selection_mode": "auto",
+                    "selector": ".gl4o1x5y > div:nth-child(1) > .n851cfcs > .kfpcsd3p > div > .lkb5bm1b > .bp9cbjyn > .j83agx80 > .gl3lb2sf > div:nth-child(2) > .j83agx80 > .qzhwtbm6 > .d2edcug0 > .bnpdmtie",
+                    "tagid": null,
+                    "text-content": "content",
+                    "xpath": "//*[contains(concat(\" \", @class, \" \"), \" gl4o1x5y \")]/div[1]/*[contains(concat(\" \", @class, \" \"), \" n851cfcs \")]/*[contains(concat(\" \", @class, \" \"), \" kfpcsd3p \")]/div/*[contains(concat(\" \", @class, \" \"), \" lkb5bm1b \")]/*[contains(concat(\" \", @class, \" \"), \" bp9cbjyn \")]/*[contains(concat(\" \", @class, \" \"), \" j83agx80 \")]/*[contains(concat(\" \", @class, \" \"), \" gl3lb2sf \")]/div[2]/*[contains(concat(\" \", @class, \" \"), \" j83agx80 \")]/*[contains(concat(\" \", @class, \" \"), \" qzhwtbm6 \")]/*[contains(concat(\" \", @class, \" \"), \" d2edcug0 \")]/*[contains(concat(\" \", @class, \" \"), \" bnpdmtie \")]"
+                }
+            ]
+        }
+    },
+    "scrapes": "7942-4126-bf55",
+    "spider": "www.facebook.com",
+    "url": "https://www.facebook.com/priceritehk/videos/",
+    "version": "0.13.3"
+}
